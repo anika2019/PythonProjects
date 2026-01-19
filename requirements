@@ -1,8 +1,0 @@
-streamlit
-pandas
-pytest
-pydentic
-uvicorn
-mysql
-
-# to install all packages, run: pip install -r requirements.txt
